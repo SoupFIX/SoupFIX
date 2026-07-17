@@ -95,11 +95,11 @@ class DataScientist:
 [![Windows](https://skillicons.dev/icons?i=windows)](https://microsoft.com/windows)
 
 ### 🤖 AI Platforms & Models
-![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-00e5ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a1a2e)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT%20%26%20API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a1a2e)
-![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0a1a2e)
-![CLIP](https://img.shields.io/badge/CLIP-Multimodal%20Vision-b06efb?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a1a2e)
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Pipelines-00ffa3?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0a1a2e)
+[![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-00e5ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a1a2e)](https://claude.ai/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT%20%26%20API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a1a2e)](https://openai.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0a1a2e)](https://gemini.google.com/)
+[![CLIP](https://img.shields.io/badge/CLIP-Multimodal%20Vision-b06efb?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a1a2e)](https://openai.com/index/clip/)
+[![LangChain](https://img.shields.io/badge/LangChain-LLM%20Pipelines-00ffa3?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0a1a2e)](https://www.langchain.com/)
 
 ### 🗄️ Databases & IDEs
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
