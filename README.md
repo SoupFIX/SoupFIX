@@ -104,7 +104,7 @@ class DataScientist:
 ### 🗄️ Databases & IDEs
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[!Qdrant](https://img.shields.io/badge/Qdrant-Vector%20Database-dc143c?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0a1a2e)](https://qdrant.tech/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20Database-dc143c?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0a1a2e)](https://qdrant.tech/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 </div>
 
