@@ -126,8 +126,6 @@ class DataScientist:
 </div>
 
 ---
----
-
 ## 📝 A Note to the World
 
 <div align="center">
