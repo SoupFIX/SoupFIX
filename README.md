@@ -130,12 +130,12 @@ class DataScientist:
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoupFIX&show_icons=true&theme=tokyonight&bg_color=050a10&title_color=00e5ff&text_color=8ab4cc&icon_color=00ffa3&border_color=0d2a40&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=SoupFIX&layout=compact&theme=tokyonight&bg_color=050a10&title_color=00e5ff&text_color=8ab4cc&border_color=0d2a40&hide_border=false&langs_count=8"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?
+    username=SoupFIX&show_icons=true&theme=tokyonight&bg_color=050a10&title_color=00e5ff&text_color=8ab4cc&icon_color=00ffa3&border_color=0d2a40&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?
+    username=SoupFIX&show_icons=true&theme=tokyonight&bg_color=050a10&title_color=00e5ff&text_color=8ab4cc&icon_color=00ffa3&border_color=0d2a40&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?
+    username=SoupFIX&show_icons=true&theme=tokyonight&bg_color=050a10&title_color=00e5ff&text_color=8ab4cc&icon_color=00ffa3&border_color=0d2a40&hide_border=false"/>
 <br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupFIX&theme=tokyonight&background=050a10&border=0d2a40&ring=00e5ff&fire=00ffa3&currStreakLabel=00e5ff&sideLabels=8ab4cc&currStreakNum=ffffff&sideNums=ffffff&dates=4a6a80"/>
