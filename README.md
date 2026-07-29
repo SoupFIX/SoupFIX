@@ -13,7 +13,6 @@
 
 <img align="right" src="./coder.svg" width="300" alt="Animated Coder"/>
 
-### 👋 About Me
  
 - 🔭 Currently building projects across **Machine Learning, Deep Learning & Data Engineering** — from raw data to deployed models
 - 📊 Comfortable across the full pipeline: data cleaning → EDA → feature engineering → modeling → evaluation
