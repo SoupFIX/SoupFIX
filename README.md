@@ -13,30 +13,13 @@
 
 <img align="right" src="./coder.svg" width="300" alt="Animated Coder"/>
 
-```python
-class DataScientist:
-    name       = "Souptik"
-    location   = "India"
-    role       = "Future Data Scientist & AI Engineer"
-    
-    skills     = ["Python", "C", "C++", "Java", "DSA", "OOP"]
-    passions   = ["EDA", "ML Pipelines", "LLMs", "Vector Search"]
-    philosophy = "DIY · Build · Learn · Repeat"
-    mission    = "Betterment of Humanity through Data"
-    
-    currently  = [
-        "📊 Mastering EDA & Statistical Analysis",
-        "🤖 Building LLM + RAG applications",
-        "🧹 Cleaning the world's messy data",
-        "🔬 Researching Vector Databases & CLIP",
-    ]
-    
-    def predict_future(self, raw_data):
-        cleaned   = self.clean(raw_data)
-        features  = self.engineer(cleaned)
-        model     = self.train(features)
-        return model.predict("Tomorrow") 🚀
-```
+### 👋 About Me
+ 
+- 🔭 Currently building projects across **Machine Learning, Deep Learning & Data Engineering** — from raw data to deployed models
+- 📊 Comfortable across the full pipeline: data cleaning → EDA → feature engineering → modeling → evaluation
+- 🌱 Currently learning: **[e.g. MLOps / LLM fine-tuning / vector databases / Airflow]**
+- 💡 I care about *why* a model works, not just its accuracy score — statistics and fundamentals first, frameworks second
+- 📫 Open to **Data Scientist / AI Engineer** internship & entry-level roles
 
 <br clear="right"/>
 
