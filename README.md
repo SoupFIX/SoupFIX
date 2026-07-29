@@ -19,11 +19,8 @@
 - 🌱 Currently learning: **[e.g. MLOps / LLM fine-tuning / vector databases / Airflow]**
 - 💡 I care about *why* a model works, not just its accuracy score — statistics and fundamentals first, frameworks second
 - 📫 Open to **Data Scientist / AI Engineer** internship & entry-level roles
-
 <br clear="right"/>
-
 ---
-
 ## 🛠️ Languages & Core Skills
 
 <div align="center">
